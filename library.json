@@ -1,0 +1,247 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "O distopie despre un viitor totalitar, supravegheat de Big Brother."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "O poveste despre rasism si justitie in sudul Americii."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "O comedie romantica despre prejudecati si relatii."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "O analiza a visului american si a decadentei anilor 1920."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "description": "O aventura maritima despre obsesia unui capitan pentru o balena alba."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "Un roman epic despre Rusia in timpul razboaielor napoleoniene."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "O analiza psihologica a unui tanar care comite o crima."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "O poveste despre alienarea si rebeliunea unui adolescent."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "O poveste fantastica despre lupta dintre bine si rau."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "description": "O poveste despre dragoste, rezistenta si independenta."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "description": "O poveste tragica despre pasiune si razbunare."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "O distopie despre o societate dominata de tehnologie si consumism."
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "description": "O epopee clasica despre aventurile lui Odiseu in drumul spre casa."
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "description": "O epopee despre razboiul troian si eroii sai."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "description": "O poveste tragica despre dragoste si societate in Rusia imperiala."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "O parabola despre descoperirea destinului personal."
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "description": "O calatorie simbolica prin infern, purgatoriu si paradis."
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "description": "O comedie despre un cavaler ratacitor si aventurile sale."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "description": "O poveste gotica despre creatie si consecintele sale."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "description": "Un roman gotic despre vampirul iconic, Dracula."
+  },
+  {
+    "title": "Les Miserables",
+    "author": "Victor Hugo",
+    "description": "O poveste despre dragoste, dreptate si sacrificiu in Franta secolului al XIX-lea."
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "description": "O poveste despre tradare, razbunare si dreptate."
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "description": "Un roman despre aspiratiile si dezamagirile unui tanar orfan."
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "description": "Un roman autobiografic despre maturizare si suferinta."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "description": "O cronica a greutatilor fermierilor migratori in timpul Marii Crize."
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "description": "O poveste despre prietenie si visuri neimplinite."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "O distopie despre o lume in care cartile sunt interzise."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "description": "Un roman despre narcisism si consecintele morale."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "O aventura fantastica despre un hobbit care descopera curajul."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "description": "O poveste post-apocaliptica despre supravietuire si umanitate."
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "description": "O satira despre razboi si absurdul existentei."
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "description": "O poveste simbolica despre transformare si alienare."
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "description": "O poveste controversata despre obsesie si moralitate."
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "description": "O naratiune complexa care urmareste o zi din viata lui Leopold Bloom."
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "description": "O poveste despre societatea si relatiile dintr-un oras mic."
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "description": "O poveste despre dorintele si dezamagirile unei femei."
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "description": "O saga magica despre familia Buendia."
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "description": "O poveste despre lupta unui pescar cu un peste gigantic."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "description": "O poveste despre sclavie si traumele mostenite."
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "description": "O explorare a depresiei si identitatii feminine."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "description": "O poveste despre sacrificiu si iubire in timpul Revolutiei Franceze."
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "description": "O satira despre absurdul birocratic in timpul razboiului."
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "description": "O fabula politica despre putere si coruptie."
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "description": "Un roman existentialist despre absurd si libertate."
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "description": "O poveste simbolica despre inocenta si prietenie."
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "description": "Un roman gotic despre mister si dragoste."
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "description": "O poveste epica despre dragoste si razboi in sudul Americii."
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "description": "O poveste despre prietenie, tradare si iertare in Afganistan."
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "description": "O distopie despre libertate si moralitate."
+  }
+]
